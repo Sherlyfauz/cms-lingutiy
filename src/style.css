@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;700;800&display=swap');
+
+
+html{
+    font-family: 'Poppins', sans-serif;
+    color: #5e5873;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+
+.color{
+    font-family: 'Poppins', sans-serif !important;
+    color: #5e5873!important;
+}
